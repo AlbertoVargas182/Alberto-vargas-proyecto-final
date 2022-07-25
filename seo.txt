@@ -1,0 +1,5 @@
+<!-- SEO -->
+
+    <meta name="keywords" content="software libre, linux, distribuciones de linux, todo sobre linux">
+    <meta name="description"
+        content="todo sobre el software libre - distribuciones de linux y un poco de historia de linux">
